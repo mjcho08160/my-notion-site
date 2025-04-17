@@ -1,0 +1,14 @@
+{
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "google-site-verification",
+          "value": "rYib1YIcqhecWcl4IfqtjvZpZ0wh97vUuv2o43FRp9Q"
+        }
+      ]
+    }
+  ]
+}
+
